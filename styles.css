@@ -1,0 +1,65 @@
+*,
+*:before,
+*:after {
+font-family: sans-serif;
+box-sizing: border-box;
+        }
+
+ body{
+  text-align: center;
+}
+
+h1 {
+  background-color: black;
+  color: white;
+  text-align: center;
+        }
+
+nav {
+
+  width: 25%;
+  text-align: center;
+  display: inline;
+}
+
+nav a {
+  background-color: lightgrey;
+  color: white;
+  padding: 5px;
+  text-align: center;
+  text-decoration: none;
+}
+
+H2 {
+  color: black;
+  background-color: #42ffd2;
+  text-align: left;
+  padding: 10px;
+}
+
+span{
+  font-weight: bold;
+  border-bottom: 5px solid yellow;
+  display: inline;
+
+}
+
+
+.photo {
+  display: inline-block;
+  width: 30%;
+  }
+img {
+  width: 100%;
+}
+
+.underphoto {
+  display: block;
+  background-color: #fdea00;
+}
+
+footer {
+  background-color: black;
+  color: white;
+  text-align: center;
+}
